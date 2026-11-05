@@ -1,0 +1,8 @@
+ABC Supplies Pvt Ltd
+TAX INVOICE
+Invoice Number: INV-ABC-001
+Invoice Date: 01-11-2026
+PO Number: PO-1001
+Tax: INR 1800
+Invoice Total: INR 10000
+Thank you for your business.
